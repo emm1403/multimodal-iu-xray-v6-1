@@ -128,7 +128,9 @@ cd demo/streamlit_app
 pip install -r requirements_streamlit.txt
 streamlit run app.py
 
+```
 
+---
 ## Running the Streamlit demo in Colab
 
 See:

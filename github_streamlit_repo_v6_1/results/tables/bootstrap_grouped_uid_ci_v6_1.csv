@@ -1,0 +1,15 @@
+fusion_model,metric,mean,p2_5,p50,p97_5
+fusion_weighted,delta_fpr_b_minus_a,0.0,0.0,0.0,0.0
+fusion_weighted,delta_recall_b_minus_a,0.0,0.0,0.0,0.0
+fusion_weighted,delta_specificity_b_minus_a,0.0,0.0,0.0,0.0
+fusion_weighted,delta_precision_b_minus_a,0.0,0.0,0.0,0.0
+fusion_weighted,delta_brier_b_minus_a,0.0,0.0,0.0,0.0
+fusion_weighted,delta_fp_b_minus_a,0.0,0.0,0.0,0.0
+fusion_weighted,delta_fn_b_minus_a,0.0,0.0,0.0,0.0
+fusion_stack,delta_fpr_b_minus_a,-0.0181813287456909,-0.0496894409907024,-0.0179640718552117,0.0120481927703585
+fusion_stack,delta_recall_b_minus_a,0.0143691770319102,0.0,0.0140845070422535,0.0476382488479262
+fusion_stack,delta_specificity_b_minus_a,0.0181813287456909,-0.0120481927703585,0.0179640718552117,0.0496894409907024
+fusion_stack,delta_precision_b_minus_a,0.0132189812772721,-0.0035233421092542,0.0132184822509508,0.0311952361835942
+fusion_stack,delta_brier_b_minus_a,0.0184668052077379,0.0012915683780898,0.0187602553437586,0.035779055863055
+fusion_stack,delta_fp_b_minus_a,-3.033,-8.0,-3.0,2.0
+fusion_stack,delta_fn_b_minus_a,-0.99,-3.0,-1.0,0.0

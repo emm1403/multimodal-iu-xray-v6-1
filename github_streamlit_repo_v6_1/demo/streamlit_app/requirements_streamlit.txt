@@ -1,0 +1,8 @@
+streamlit>=1.31
+numpy
+pandas
+pillow
+scikit-learn
+torch
+torchvision
+torchxrayvision

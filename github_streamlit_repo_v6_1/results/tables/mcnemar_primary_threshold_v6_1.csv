@@ -1,0 +1,5 @@
+comparison,subset,b_corrected_by_b,c_new_errors_by_b,n_discordant,p_value
+image_calibrated_vs_fusion_weighted,negative_FPR,0,0,0,
+image_calibrated_vs_fusion_weighted,positive_FNR,0,0,0,
+image_calibrated_vs_fusion_stack,negative_FPR,5,2,7,0.453125
+image_calibrated_vs_fusion_stack,positive_FNR,1,0,1,1.0

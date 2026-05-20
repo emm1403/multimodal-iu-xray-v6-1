@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs_multimodal_iuxray_*.zip
+*.pt
+*.pth
+data/raw/
+data/images/

@@ -1,0 +1,17 @@
+{
+  "image_weight": 1.0,
+  "text_weight": 0.0,
+  "calibration_threshold": 0.1306537933062523,
+  "calibration_recall": 0.9104477611940298,
+  "calibration_fpr": 0.47398843927896017,
+  "calibration_specificity": 0.5260115606632363,
+  "calibration_precision": 0.42657342657342656,
+  "calibration_f1": 0.580952380952381,
+  "roc_auc": 0.8354758001898025,
+  "pr_auc": 0.7072568488517488,
+  "brier": 0.1375215103205506,
+  "recall_shortfall": 0.0,
+  "selection_score": 0.5427491944392355,
+  "selection_mode": "fpr_brier_penalized",
+  "recall_constraint_met": true
+}

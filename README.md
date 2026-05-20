@@ -122,14 +122,12 @@ notebooks/extract_test_demo_set_v6_1_colab.ipynb
 ## Running the Streamlit live demo locally
 
 ```bash
+git clone https://github.com/emm1403/multimodal-iu-xray-v6-1.git
+cd multimodal-iu-xray-v6-1
 cd demo/streamlit_app
 pip install -r requirements_streamlit.txt
 streamlit run app.py
-```
 
-The app loads the V6.1 checkpoint and calibration files included in `demo/streamlit_app/model/`.
-
----
 
 ## Running the Streamlit demo in Colab
 

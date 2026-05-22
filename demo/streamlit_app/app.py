@@ -146,7 +146,7 @@ def load_model_and_calibrator():
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model = ImageOnlyClassifier().to(device)
-    state_dict = torch.load(MODEL_PATH, map_location=device)
+    state_dict = torch.load(MODEL_PATH, map_location=device, weights_only=False)
     model.load_state_dict(state_dict, strict=False)
     model.eval()
 
